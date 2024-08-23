@@ -1,6 +1,8 @@
 # Expanding KiloNeRF paradigm
 
-## Anas Shahzad Robin Brase Muhammad Khattab Aanchal Chugh
+### Anas Shahzad Robin Brase Muhammad Khattab Aanchal Chugh
+
+<img src='src/donerf_teaser.png'/>
 
 ## Abstract
 
