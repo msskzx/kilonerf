@@ -1,4 +1,4 @@
-# Expanding KiloNeRF paradigm
+# Towards Real-Time Rendering for Novel View Synthesis
 
 ### Anas Shahzad Robin Brase Muhammad Khattab Aanchal Chugh
 
